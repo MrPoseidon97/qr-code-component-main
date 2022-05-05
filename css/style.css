@@ -36,11 +36,13 @@ body {
 }
 
 .content h1 {
-    margin: 18px auto ;
+    margin: 18px auto;
+    color: hsl(218, 44%, 22%);
 }
 
 .content p {
     color:hsl(220, 15%, 55%);
     margin: 0 auto;
     max-width: 266px;
+    font-size: 1.05em;
 }
